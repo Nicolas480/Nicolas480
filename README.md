@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋</h1>
 Greetings! I am Nicolás Machado, a software developer located in the city of Montevideo, Uruguay. By day, I currently work at Lexart, where I contribute to innovative projects and solutions within the technology space. However, when the workday is over, my passion for creativity finds outlet in the field of 3D design, a hobby that I deeply appreciate.
 
 I am passionate about leveraging technology to make a positive impact, both professionally and creatively. Let's connect and share our mutual interests in technology, design, and personal growth. Thank you for joining me on this journey! 🚀✨
